@@ -1,0 +1,50 @@
+body {
+    font-family: space-between;
+}
+
+header {
+    background-image: linear-gradient(to right, #000000, #97761a, #ffd000);
+    padding: 50px;
+    width: 1100px;
+}
+header image {
+    width: 50px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+    width: 1100px;
+}
+
+h2 {
+    color: #97761a
+;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+footer p {
+    background-color: Lavender;
+    padding: 5px;
+}
+
+nav {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    display: block;
+}
